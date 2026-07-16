@@ -4,7 +4,7 @@
 
 [Special Header àáâãäåāăąèéêëēęìíîïīįòóôõöøőōùúûüűūųýÿçćčďðģğķļĺľłñńņňřŕśşšșťţþțźżžæœßı](#special-header-àáâãäåāăąèéêëēęìíîïīįòóôõöøőōùúûüűūųýÿçćčďðģğķļĺľłñńņňřŕśşšșťţþțźżžæœßı)
 
-[Special Emoji 😂❤️🔥🥰🙏👍🎉😉💀](#special-emoji-😂❤️🔥🥰🙏👍🎉😉💀)
+[Special Emoji 😂❤️🔥🥰🙏👍🎉😉💀](#special-emoji-)
 
 [Special Japanese ひらがなカタカナ漢字](#special-japanese-ひらがなカタカナ漢字)
 
