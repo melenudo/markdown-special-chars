@@ -2,6 +2,12 @@
 
 [Special Header áéíóúàèìòùäëïöü](#special-header-áéíóúàèìòùäëïöü)
 
+[Special Header àáâãäåāăąèéêëēęìíîïīįòóôõöøőōùúûüűūųýÿçćčďðģğķļĺľłñńņňřŕśşšșťţþțźżžæœßı](#special-header-àáâãäåāăąèéêëēęìíîïīįòóôõöøőōùúûüűūųýÿçćčďðģğķļĺľłñńņňřŕśşšșťţþțźżžæœßı)
+
+[Special Emoji 😂❤️🔥🥰🙏👍🎉😉💀](#special-emoji-😂❤️🔥🥰🙏👍🎉😉💀)
+
+[Special Japanese ひらがなカタカナ漢字](#special-japanese-ひらがなカタカナ漢字)
+
 Special Characters in headers
 
 Special Characters in headers
@@ -51,3 +57,9 @@ Special Characters in headers
 Special Characters in headers
 
 # Special Header áéíóúàèìòùäëïöü
+
+# Special Header àáâãäåāăąèéêëēęìíîïīįòóôõöøőōùúûüűūųýÿçćčďðģğķļĺľłñńņňřŕśşšșťţþțźżžæœßı
+
+# Special Emoji 😂❤️🔥🥰🙏👍🎉😉💀
+
+# Special Japanese ひらがなカタカナ漢字
